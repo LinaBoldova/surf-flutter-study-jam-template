@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:surf_practice_chat_flutter/features/chat/models/chat_user_dto.dart';
 import 'package:surf_practice_chat_flutter/features/chat/models/chat_user_local_dto.dart';
 import 'package:surf_study_jam/surf_study_jam.dart';
@@ -12,6 +13,7 @@ class ChatMessageDto {
 
   /// Creation date and time.
   final DateTime createdDateTime;
+
 
   /// Constructor for [ChatMessageDto].
   const ChatMessageDto({

@@ -13,6 +13,14 @@ dependencies:
     sdk: flutter
   surf_study_jam: ^0.1.0
   cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.15
+  bubble: ^1.2.1
+  scrollable_positioned_list: ^0.3.2
+  flutter_map:
+  latlng: ^0.2.0
+  map_launcher: ^2.3.0
+  flutter_svg:
+  yandex_mapkit: ^3.0.3
 
 dev_dependencies:
   flutter_test:
